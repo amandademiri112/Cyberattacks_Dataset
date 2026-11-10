@@ -6,12 +6,7 @@
 - [Purpose](#purpose)
 - [Objectives](#objectives)
 - [Skills](#skills)
-- [Steps](#skills)
-    - [Data Gathering](#data-gathering)
-    - [Data Cleaning](#data-cleaning)
-    - [Data Analysing](#data-analysing)
-    - [Investigating Findings](#investigating-findings)
-    - [Presentation](#presentation)
+- [Steps](#steps)
 - [Previews](#previews)
 - [Final Project](#final-project)
 
@@ -19,15 +14,34 @@
 A project using a cyberattacks dataset to demonstrate my abilities to collect data, clean it, analyse it, and derive insights from it.
 
 ## Objectives
+**Project objectives**
+- Which countries are most frequently associated with cyberattacks targeting the UK?
+- Can the identified attacks be attributed to state-sponsored groups, individuals, cybercriminals, or other actors?
+- What are the primary objectives behind these attacks (e.g. espionage, financial gain, political influence or disruption)?
+- Can cyberattack activity be correlated with significant geopolitical events or international tensions occurring at the time?
+- Which UK sectors and organisations are most frequently targeted?
+- What do the findings suggest about the most significant cyber threats facing the UK?
+  
+**Skill objectives**
+- Data collection
+- Data cleaning
+- Data analysis
+- Deriving insights
+- Querying with SQL
+- Managing a database
+- Intelligence analysis
+- Intelligence reporting
 
 ## Skills
 
 ## Steps
-### Data Gathering
-### Data Cleaning
-### Data Analysing
-### Investigating Findings
-### Presentation
+Data acquisition  
+Database development  
+Data preparation  
+SQL analysis  
+OSINT research  
+Intelligence assessment   
+Final presentation  
 
 ## Previews
 

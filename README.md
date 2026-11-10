@@ -1,5 +1,5 @@
-
-# Maritime Dataset
+![Static Badge](https://img.shields.io/badge/SQL-blue)  
+# Cyberattacks Dataset
 
 ## Contents
 
@@ -16,7 +16,7 @@
 - [Final Project](#final-project)
 
 ## Purpose
-A project using a maritime dataset to demonstrate my abilities to collect data, clean it, analyse it, and derive insights from it.
+A project using a cyberattacks dataset to demonstrate my abilities to collect data, clean it, analyse it, and derive insights from it.
 
 ## Objectives
 

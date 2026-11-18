@@ -16,11 +16,13 @@ A project using a cyberattacks dataset to demonstrate my abilities to collect da
 ## Objectives
 **Project objectives**
 - Which countries are most frequently associated with cyberattacks targeting the UK?
-- Can the identified attacks be attributed to state-sponsored groups, individuals, cybercriminals, or other actors?
-- What are the primary objectives behind these attacks (e.g. espionage, financial gain, political influence or disruption)?
-- Can cyberattack activity be correlated with significant geopolitical events or international tensions occurring at the time?
+- Which types of cyberattacks are most frequently recorded against the UK?
+- Which network protocols and destination ports are most commonly associated with these attacks?
 - Which UK sectors and organisations are most frequently targeted?
+- How do detection labels and confidence scores vary across machine-learning models?
 - What do the findings suggest about the most significant cyber threats facing the UK?
+- What patterns emerge when comparing attack types, source countries and affected systems?
+- What do the findings suggest about the cyberattack patterns represented in the dataset, and what are its limitations?
   
 **Skill objectives**
 - Data collection

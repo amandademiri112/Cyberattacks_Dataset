@@ -143,6 +143,6 @@ From an intelligence perspective, additional research into the recorded source c
 
 ## SQL
 
-[SQL Code](Cyberattacks_Dataset/SQL_Code/CyberAttacksAnalysis.sql)
+[SQL Code](SQL_Code/CyberAttacksAnalysis.sql)
 
 ###### Original data is located in files

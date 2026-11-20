@@ -26,7 +26,7 @@ The purpose of this project is to demonstrate my SQL, data cleaning and data ana
 
 ## Skills
 
-| Technical Skills | Soft Skills |
+| ![Static Badge](https://img.shields.io/badge/Technical%20Skills-steelblue) | ![Static Badge](https://img.shields.io/badge/Soft%20Skills-9994C0) |
 |---|---|
 | SQL | Critical thinking |
 | MySQL | Attention to detail |
@@ -37,7 +37,7 @@ The purpose of this project is to demonstrate my SQL, data cleaning and data ana
 
 ## Specific Skills
 
-| SQL Functions & Statements | SQL Skills |
+| SQL Functions | SQL Skills |
 |---|---|
 | SELECT | Database creation |
 | WHERE | Filtering records |
@@ -140,4 +140,4 @@ From an intelligence perspective, additional research into the recorded source c
 
 [SQL Code](SQL_Code/CyberAttacksAnalysis.sql)
 
-###### Original data is located in files
+###### Original dataset available in repository

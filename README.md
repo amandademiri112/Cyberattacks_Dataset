@@ -13,16 +13,16 @@
 
 ## Purpose
 
-The purpose of this project is to demonstrate my SQL, data cleaning, data analysis and intelligence reporting skills using a cyberattacks dataset.
+The purpose of this project is to demonstrate my SQL, data cleaning and data analysis skills using a cyberattacks dataset. It also showcases my interest in intelligence analysis and my willingness to develop these skills further.
 
 ## Objectives
 
-- Identify recurring patterns within UK-targeted cyberattacks.
-- Assess which attack categories and systems feature most prominently.
-- Examine the distribution of recorded attack sources.
-- Evaluate the detection patterns represented in the dataset.
-- Develop evidence-based intelligence assessments from the findings.
-- Identify limitations and intelligence gaps that could affect the conclusions.
+- Identify patterns within cyberattack records associated with the UK.
+- Examine the most frequently recorded attack types.
+- Investigate the distribution of recorded source countries.
+- Explore affected systems and network protocols.
+- Compare the detection labels and confidence scores recorded in the dataset.
+- Identify limitations within the data and consider how these affect the findings.
 
 ## Skills
 
@@ -32,9 +32,8 @@ The purpose of this project is to demonstrate my SQL, data cleaning, data analys
 | MySQL | Attention to detail |
 | Data cleaning | Problem solving |
 | Data transformation | Organisation |
-| Database management | Analytical thinking |
+| Data validation | Analytical thinking |
 | Data analysis | Written communication |
-| Data validation |  |
 
 ## Specific Skills
 
@@ -45,7 +44,7 @@ The purpose of this project is to demonstrate my SQL, data cleaning, data analys
 | GROUP BY | Data aggregation |
 | ORDER BY | CSV data import |
 | COUNT | Data type conversion |
-| COUNT DISTINCT | Identifying unique records |
+| COUNT (DISTINCT) | Identifying unique records |
 | SUM | Conditional calculations |
 | AVG | Statistical analysis |
 | MIN / MAX | Identifying value ranges |
@@ -85,10 +84,6 @@ The purpose of this project is to demonstrate my SQL, data cleaning, data analys
 - Analysed affected systems.
 - Compared machine-learning detection labels and confidence scores.
 - Investigated combinations of source countries, attack types and affected systems.
-
-**OSINT Research**
-- Used open-source research to provide additional context for relevant cyber threats and attack techniques.
-- Considered the wider significance of the identified patterns.
 
 **Intelligence Assessment**
 - Consolidated the findings from the SQL analysis.
